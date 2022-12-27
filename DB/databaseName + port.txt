@@ -1,0 +1,2 @@
+Name - Project2022UrFu
+Port - mongodb://localhost:27017

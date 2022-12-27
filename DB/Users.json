@@ -1,0 +1,73 @@
+[{
+  "_id": {
+    "$oid": "638097094c050a5cca840861"
+  },
+  "userName": "Андрей",
+  "userSurname": "Вовк",
+  "age": "20",
+  "position": "Программист",
+  "id": 1,
+  "login": "Andrei.Vovk@urfu.e"
+},{
+  "_id": {
+    "$oid": "639c286fefdc4d05822404ee"
+  },
+  "name": "Денис",
+  "surname": "Белозеров",
+  "login": "DenBel@jopa.ru",
+  "birth": "2001-02-01T08:11:10.000Z",
+  "sex": "male",
+  "num": "8800553535",
+  "id": 2,
+  "region": "4a3d970f-520e-46b9-b16c-50d4ca7535a8",
+  "password": "12345",
+  "favorites": [
+    ""
+  ]
+},{
+  "_id": {
+    "$oid": "639d7c7e9cbcec0f0c9ca25a"
+  },
+  "name": "Илья",
+  "surname": "Иванов",
+  "login": "user.login",
+  "birth": "2022-12-14T19:00:00.000Z",
+  "sex": "male",
+  "num": "79985871897",
+  "id": 3,
+  "region": "c225d3db-1db6-4063-ace0-b3fe9ea3805f",
+  "password": "hash",
+  "favorites": [
+    ""
+  ]
+},{
+  "_id": {
+    "$oid": "63a04728e8209cad48bbad02"
+  },
+  "name": "Люда",
+  "surname": "Погорелец",
+  "login": "lyda@mail.ru",
+  "birth": "2012-12-05T19:00:00.000Z",
+  "sex": "female",
+  "num": "8800553535",
+  "id": 4,
+  "region": "c20180d9-ad9c-46d1-9eff-d60bc424592a",
+  "password": "8800",
+  "favorites": [
+    ""
+  ]
+},{
+  "_id": {
+    "$oid": "63a067116523fc015665e83f"
+  },
+  "name": "Никита",
+  "surname": "Вдовин",
+  "login": "VdovNek@gmail.ru",
+  "birth": "2022-12-20T19:00:00.000Z",
+  "sex": "male",
+  "num": "12141241",
+  "id": 5,
+  "region": "248d8071-06e1-425e-a1cf-d1ff4c4a14a8",
+  "password": "0000",
+  "favorites": []
+}]

@@ -1,0 +1,95 @@
+[{
+  "_id": {
+    "$oid": "639b4fc2c3e2174493c43c47"
+  },
+  "name": "cratch",
+  "id": 1
+},{
+  "_id": {
+    "$oid": "639c1f5441bb4ff44f4f495c"
+  },
+  "name": "Путешествие в Дагестан",
+  "place": "Дагестан",
+  "placeDescription": "Хорошие дагестанцы (наверное дагестанцы может и нет)",
+  "organizer": "Profile",
+  "organizer_Id": "Нужно получить id пользователя",
+  "guide": "Егор",
+  "id": 4,
+  "start": "2022-12-15T19:00:00.000Z",
+  "finish": "2022-12-26T19:00:00.000Z",
+  "countday": 11,
+  "description": "Подробное описание путешествия",
+  "cost": 1000,
+  "status": "open"
+},{
+  "_id": {
+    "$oid": "639c201189eabf76a6dc1b2e"
+  },
+  "name": "Путешествие в Ингушетию",
+  "place": "Ингушетия",
+  "placeDescription": "Хорошее путешествие в Ингушетию. Возьмите пива.",
+  "organizer": "Profile",
+  "organizer_Id": "Нужно получить id пользователя",
+  "guide": "Илья",
+  "id": 5,
+  "start": "2022-11-30T19:00:00.000Z",
+  "finish": "2022-12-30T19:00:00.000Z",
+  "countday": 30,
+  "description": "Подробное описание путешествия в Ингушетию",
+  "cost": 123456,
+  "status": "open"
+},{
+  "_id": {
+    "$oid": "63a07024eac15dab01c53917"
+  },
+  "name": "Путешествие в хакасию",
+  "region": "8d3f1d35-f0f4-41b5-b5b7-e7cadf3e7bd7",
+  "place": "Люда",
+  "placeDescription": "Чилым-Чилым",
+  "organizer": "Люда",
+  "organizer_Id": "Нужно получить id пользователя",
+  "guide": "Люда",
+  "id": 7,
+  "start": "2022-11-30T19:00:00.000Z",
+  "finish": "2022-12-01T19:00:00.000Z",
+  "countday": 1,
+  "description": "Республика ХО-КА-СИ-Я!",
+  "cost": 10,
+  "status": "open"
+},{
+  "_id": {
+    "$oid": "63a08905286cb741f1538b28"
+  },
+  "name": "Путешествие в Кабардино Балкарию",
+  "region": "1781f74e-be4a-4697-9c6b-493057c94818",
+  "place": "Балкария",
+  "placeDescription": "Путешествие в Кабардино Балкарию",
+  "organizer": "Андрей",
+  "organizer_Id": "Нужно получить id пользователя",
+  "guide": "Андрей",
+  "id": 8,
+  "start": "2022-12-02T19:00:00.000Z",
+  "finish": "2022-12-07T19:00:00.000Z",
+  "countday": 5,
+  "description": "Бла бла бла",
+  "cost": 100000,
+  "status": "open"
+},{
+  "_id": {
+    "$oid": "63a46bfd7c7d99ebf7b91bff"
+  },
+  "name": "Тест",
+  "region": "8d3f1d35-f0f4-41b5-b5b7-e7cadf3e7bd7",
+  "place": "Тест",
+  "placeDescription": "Тест",
+  "organizer": "Тест",
+  "organizer_Id": "Нужно получить id пользователя",
+  "guide": "Тест",
+  "id": 9,
+  "start": "2022-11-30T19:00:00.000Z",
+  "finish": "2022-11-30T19:00:00.000Z",
+  "countday": 0,
+  "description": "Тест",
+  "cost": 1e+42,
+  "status": "open"
+}]
